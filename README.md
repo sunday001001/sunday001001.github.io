@@ -1,4 +1,4 @@
-﻿#### Welcome to github pages.
+#### Welcome to github pages.
 
 You can use
 
